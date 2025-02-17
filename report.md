@@ -1,0 +1,1 @@
+In this assignment, I have learnt how to initialise a Git repository and commit changes to this repository. I have created and managed a branch called feature/student-details. I made a txt file containing my name and student number. I created an html file called index.html which contains specific text that was requested from us. I have then deployed the file to GitHub pages.
